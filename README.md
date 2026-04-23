@@ -1,82 +1,99 @@
 # Cécile RONDEAU — Data Analyst
 
-> Les données ont toujours été mon terrain de jeu. 15 ans à les collecter, les fiabiliser et les faire parler en environnement ERP — et aujourd'hui un titre Data Analyst (RNCP niveau 6) pour aller encore plus loin.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=flat&logoColor=black)
+
+> Les données ont toujours été mon terrain de jeu. 15 ans à les collecter, les fiabiliser et les faire parler en environnement ERP — et aujourd'hui un titre Data Analyst (RNCP niveau 6) pour aller encore plus loin.
 > Analytique, curieuse et opérationnelle, je transforme des données complexes en décisions simples et actionnables.
 
-📍 Cholet — Mobilité 60 km | Disponible en présentiel et à distance  
+📍 Cholet — Mobilité 60 km | Disponible en présentiel et à distance
 📞 0670 75 58 95 | ✉️ rondeaucecile@outlook.com
+🌐 [cecile-rondeau-data-analyst.fr](https://cecile-rondeau-data-analyst.fr)
+💼 [LinkedIn](https://www.linkedin.com/in/cécile-rondeau-b79258aa)
+
+---
+
+## Table des matières
+
+- [Projet 6 — Optimisez la gestion des données d'une boutique](#projet-6)
+- [Projet 9 — Analysez les ventes d'une librairie](#projet-9)
+- [Projet 10 — Faites une étude sur l'eau potable](#projet-10)
+- [Projet 11 — Produisez une étude de marché](#projet-11)
+- [Projet 12 — Détectez des faux billets](#projet-12)
 
 ---
 
 ## Profil
 
-Passée des fonctions d'assistante de gestion et commerciale à la data analytique, je combine une connaissance concrète des environnements ERP et des enjeux métier avec des compétences techniques acquises en formation (RNCP niveau 6, Bac+3/4 — OpenClassrooms). Ce qui me distingue : je sais ce que les données représentent côté terrain avant même de les analyser.
+Passée des fonctions d'assistante de gestion, commerciale et adjointe de direction à la data analytique, je combine une connaissance concrète des environnements ERP et des enjeux métier avec des compétences techniques acquises en formation (RNCP niveau 6, Bac+3/4 — OpenClassrooms). Ce qui me distingue : je sais ce que les données représentent côté terrain avant même de les analyser.
 
 ---
 
-## Compétences
+## Projet 6
 
-### Analyse & reporting
-- Analyse de données et reporting (KPI, tendances, segmentation)
-- Nettoyage et fiabilisation de datasets
-- Construction de tableaux de bord décisionnels
-- Analyse statistique (univariée, bivariée, séries temporelles)
-- Data storytelling pour publics non techniques
+### Optimisez la gestion des données d'une boutique avec R ou Python
 
-### Outils techniques
-- **Python** : pandas, statistiques, visualisation (plotly, matplotlib, seaborn)
-- **SQL** : requêtes analytiques, modélisation de tables
-- **Power BI** : dashboards interactifs, DAX
-- **Excel avancé** : TCD, formules complexes, macros
-- **Power Query, KNIME**
-- **IA générative** : niveau intermédiaire opérationnel (analyse, automatisation, prompt engineering)
-- **ERP** : Sage, Anael, Onaya, Prodevis, Proginiov, Diapason, Dreamflore, Winnix
+> **Client :** BottleNeck (boutique de vins en ligne)
+> **Rôle :** Data Analyst | **Durée :** 70h | **Statut :** ✅ Validé
 
-### Soft skills
-- Rigueur méthodologique
-- Motivation intrinsèque
-- Esprit analytique
-- Collaboration transversale
+**Question métier :** Comment fiabiliser des données provenant de sources hétérogènes (ERP + Web) pour produire des analyses fiables ?
+
+**Compétences :** Data Cleaning · Data Wrangling · EDA · RGPD · Business Intelligence
+
+**Outils :** `Python` · `pandas` · `numpy` · `matplotlib` · `seaborn`
+
+![Aperçu projet 6](./projet6/apercu.png)
+
+📁 [Voir le dossier complet](./projet6/)
 
 ---
 
-## Projets certifiants
+## Projet 9
 
-Les projets sont présentés dans l'ordre de montée en compétence.
+### Analysez les ventes d'une librairie avec R ou Python
 
-| # | Projet | Compétences clés | Lien |
-|---|--------|-----------------|------|
-| 1 | [Optimisation gestion données boutique — Bottleneck](./projet6_bottleneck.md) | Python, pandas, nettoyage données, EDA, RGPD, analyse stock & marges | [Voir](./projet6_bottleneck.md) |
-| 2 | Projet 9 — *à compléter* | — | — |
-| 3 | Projet 10 — *à compléter* | — | — |
-| 4 | Projet 11 — *à compléter* | — | — |
-| 5 | Projet 12 — *à compléter* | — | — |
+> **Statut :** ✅ Validé
+
+📁 [Voir le dossier du projet](./projet9/)
 
 ---
 
-## Expérience professionnelle
+## Projet 10
 
-**Adjointe du directeur des Grands Comptes — Établissements Sogal** *(2022 – 2025)*  
-Extraction et analyse de données ERP, tableaux de bord CA, suivi d'indicateurs, mise à jour des grilles tarifaires, coordination direction/équipes.
+### Faites une étude sur l'eau potable
 
-**Assistante commerciale — Atelier Peau** *(2016 – 2022)*  
-Suivi pipeline commercial, indicateurs de pilotage, facturation, SAV, support administratif.
+> **Statut :** 🔄 Soutenance à planifier
 
-**Assistante commerciale — SAS Arbora** *(2015 – 2016)*  
-Gestion devis/commandes, appels d'offres, coordination équipes terrain.
-
-**Assistante de gestion — TBS Industrie** *(2004 – 2014)*  
-Suivi comptable et financier, extraction et transmission mensuelle des CA clients, production des relevés de commissions.
+📁 [Voir le dossier du projet](./projet10/)
 
 ---
 
-## Formation
+## Projet 11
 
-- **2025 – 2026** : Titre professionnel Data Analyst — OpenClassrooms (RNCP niveau 6, Bac+3/4)
-- **1996** : Baccalauréat Sciences Techniques et Tertiaires, Comptabilité et Gestion — Lycée Europe Schuman, Cholet
+### Produisez une étude de marché avec R ou Python
+
+> **Statut :** 🔄 En cours
+
+📁 [Voir le dossier du projet](./projet11/)
 
 ---
 
-## Centres d'intérêt
+## Projet 12
 
-Exploration digitale et formation en ligne · Lecture · Voyages et découvertes urbaines · Immersion linguistique · Activité physique régulière
+### Détectez des faux billets avec R ou Python
+
+> **Statut :** 🔄 En cours
+
+📁 [Voir le dossier du projet](./projet12/)
+
+---
+
+## Contact
+
+✉️ rondeaucecile@outlook.com
+🌐 [cecile-rondeau-data-analyst.fr](https://cecile-rondeau-data-analyst.fr)
+💼 [LinkedIn](https://www.linkedin.com/in/cécile-rondeau-b79258aa)
