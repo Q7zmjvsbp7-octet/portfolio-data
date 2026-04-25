@@ -56,10 +56,17 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ### Analysez les ventes d'une librairie avec R ou Python
 
-> **Statut :** ✅ Validé
+> **Client :** Lapage (librairie physique + site en ligne) **Rôle :** Data Analyst | **Durée :** 70h | **Statut :** ✅ Validé
 
-📁 [Voir le dossier du projet](./projet9/)
+**Question métier :** Comment analyser les ventes et le comportement clients d'une librairie en ligne pour identifier les leviers de croissance ?
 
+**Compétences :** Analyse temporelle · Segmentation clients · Concentration (Gini/Lorenz) · Tests statistiques · Business Intelligence
+
+**Outils :** `Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scipy`
+
+![Aperçu projet 9](./projet9/apercu.png)
+
+📁 [Voir le dossier complet](./projet9/)
 ---
 
 ## Projet 10
