@@ -69,13 +69,19 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 📁 [Voir le dossier complet](./projet9/)
 ---
 
-## Projet 10
-
 ### Faites une étude sur l'eau potable
 
-> **Statut :** 🔄 Soutenance à planifier
+> **Client :** DWFA — Drinking Water For All (ONG) **Rôle :** Data Analyst | **Durée :** 70h |**Statut :** ✅ Validé
 
-📁 [Voir le dossier du projet](./projet10/)
+**Question métier :** Comment exploiter des données internationales sur l'accès à l'eau potable pour identifier des disparités territoriales et prioriser les zones d'intervention ?
+
+**Compétences :** Data Storytelling · Business Intelligence · Data Viz · Data Prep & Blending · Accessibilité
+
+**Outils :** `Tableau Public` · `Python` · `pandas`
+
+![Aperçu projet 10](./projet10/apercu.png)
+
+📁 [Voir le dossier complet](./projet10/)
 
 ---
 
