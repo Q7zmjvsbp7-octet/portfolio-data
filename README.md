@@ -89,14 +89,14 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ### Produisez une étude de marché avec R ou Python
 
-> **Client :** La Poule qui Chante (industrie agroalimentaire)  
+> **Client :** La Poule qui Chante (export de volailles)  
 > **Rôle :** Data Analyst | **Durée :** 70h | **Statut :** ✅ Validé
 
 **Question métier :**
 Comment identifier les marchés internationaux les plus attractifs pour exporter du poulet français ?
 
 **Compétences :**
-ACP · Clustering · Segmentation · Data Storytelling · Business Intelligence
+ACP · Clustering · Segmentation de marchés · Data Storytelling · Aide à la décision
 
 **Outils :**
 `Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scikit-learn`
