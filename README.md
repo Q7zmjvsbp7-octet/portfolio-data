@@ -17,13 +17,27 @@
 
 ---
 
+**Compétences démontrées :**
+
+SQL • Python • Power BI • KNIME • Tableau Public • ACP • Clustering • Machine Learning • Data Storytelling • Business Intelligence
+
+---
+
 ## Table des matières
 
+- [Projet 1 — Prenez en main votre formation de Data Analyst](#projet-1)
+- [Projet 2 — Faites une analyse de ventes pour un e-commerce](#projet-2)
+- [Projet 3 — Requêtez une base de données avec SQL](#projet-3)
+- [Projet 4 — Réalisez une étude de santé publique avec R ou Python](#projet-4)
+- [Projet 5 — Créez et utilisez une base de données immobilière avec SQL](#projet-5)
 - [Projet 6 — Optimisez la gestion des données d'une boutique](#projet-6)
+- [Projet 7 — Créez un tableau de bord dynamique avec Power BI](#projet-7)
+- [Projet 8 — Analysez des indicateurs de l'égalité femmes/hommes dans le respect du RGPD](#projet-8)
 - [Projet 9 — Analysez les ventes d'une librairie](#projet-9)
 - [Projet 10 — Faites une étude sur l'eau potable](#projet-10)
 - [Projet 11 — Produisez une étude de marché](#projet-11)
 - [Projet 12 — Détectez des faux billets](#projet-12)
+- [Projet 13 — Créez votre portfolio professionnel de la data](#projet-13)
 
 ---
 
