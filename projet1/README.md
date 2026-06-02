@@ -69,6 +69,13 @@ Identification des qualités professionnelles clés :
 * Planning prévisionnel de formation
 
 ---
+## 📅 Organisation du parcours
+
+Afin de sécuriser la réussite de la formation, un planning prévisionnel des 13 projets a été construit dès le démarrage du parcours.
+
+![Planning du parcours](planning_parcours.png)
+
+---
 
 # ✅ Compétences développées
 
