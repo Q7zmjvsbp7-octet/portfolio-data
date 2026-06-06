@@ -141,12 +141,19 @@ Le levier est structurel, stratégique et politique.
 
 ## Livrables
 
-| Fichier | Description |
-|---|---|
-| [`livrables/Rondeau_Cecile_1_notebook_112025.ipynb`](./livrables/Rondeau_Cecile_1_notebook_112025.ipynb) | Notebook Python — analyse complète |
-| [`livrables/Rondeau_Cecile_2_notebook_112025.pdf`](./livrables/Rondeau_Cecile_2_notebook_112025.pdf) | Export PDF du notebook |
-| [`livrables/Rondeau_Cécile_3_presentation_112025pdf.pdf`](./livrables/Rondeau_Cécile_3_presentation_112025pdf.pdf) | Présentation des résultats |
+## 📋 Livrables
+
+- 📓 [Notebook Python — analyse complète](./livrables/Rondeau_Cecile_1_notebook_112025.ipynb)
+- 📄 [Export PDF du notebook](./livrables/Rondeau_Cecile_2_notebook_112025.pdf)
+- 📊 [Présentation des résultats](./livrables/Rondeau_Cécile_3_presentation_112025pdf.pdf)
 
 ---
 
-## Structure du dossier
+## 🗂 Structure du dossier
+
+| Fichier / Dossier | Description |
+|-------------------|-------------|
+| `enonce/` | PDFs OpenClassrooms (scénario, mission, livrables) |
+| `donnees/` | Fichiers sources : dispo_alimentaire · sous_nutrition · population · aide_alimentaire |
+| `livrables/` | Notebook Python · Export PDF · Présentation des résultats |
+| `apercu.png` | Capture d'écran de la visualisation principale |
