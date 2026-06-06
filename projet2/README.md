@@ -1,8 +1,8 @@
 # 📊 Projet 2 — Faites une analyse de ventes pour un e-commerce
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Formules simples](https://img.shields.io/badge/Formules-SUM%20%7C%20COUNT-217346?style=flat)
-![Formules complexes](https://img.shields.io/badge/Formules-SUMIF%20%7C%20COUNTIF%20%7C%20IF%20imbriqués%20%7C%20SUBTOTAL-217346?style=flat)
+![Formules simples](https://img.shields.io/badge/Excel-Formules%20simples-217346?style=flat)
+![Formules complexes](https://img.shields.io/badge/Excel-Formules%20complexes-217346?style=flat)
 ![TCD](https://img.shields.io/badge/Excel-Tableaux%20Croisés%20Dynamiques-217346?style=flat)
 ![Tableaux structurés](https://img.shields.io/badge/Excel-Tableaux%20Structurés-217346?style=flat)
 ![DataViz](https://img.shields.io/badge/Focus-Data%20Visualisation-orange?style=flat)
