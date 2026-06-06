@@ -1,9 +1,13 @@
 # 📊 Projet 2 — Faites une analyse de ventes pour un e-commerce
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Formules simples](https://img.shields.io/badge/Formules-SUM%20%7C%20COUNT-217346?style=flat)
+![Formules complexes](https://img.shields.io/badge/Formules-SUMIF%20%7C%20COUNTIF%20%7C%20IF%20imbriqués%20%7C%20SUBTOTAL-217346?style=flat)
+![TCD](https://img.shields.io/badge/Excel-Tableaux%20Croisés%20Dynamiques-217346?style=flat)
+![Tableaux structurés](https://img.shields.io/badge/Excel-Tableaux%20Structurés-217346?style=flat)
 ![DataViz](https://img.shields.io/badge/Focus-Data%20Visualisation-orange?style=flat)
-![Marketing](https://img.shields.io/badge/Domaine-Marketing-blue?style=flat)
-![Projet](https://img.shields.io/badge/Projet-Data%20Analyst-green?style=flat)
+![Storytelling](https://img.shields.io/badge/Soft%20Skill-Storytelling-blueviolet?style=flat)
+![Reporting](https://img.shields.io/badge/Domaine-Reporting%20Marketing-blue?style=flat)
 
 [← Retour au portfolio principal](../README.md)
 
@@ -110,7 +114,9 @@ Complétion d'une trame de tableau de bord pour Pauline (pôle Marketing) :
 
 ## 🛠 Outils utilisés
 
-- Excel (SUMIF, COUNTIF, IF, tableaux croisés dynamiques)
+- Excel — Formules simples (SUM, COUNT)
+- Excel — Formules complexes (SUMIF, COUNTIF, IF imbriqués)
+- Excel — Tableaux croisés dynamiques
 - Data Visualisation
 - Storytelling
 - Reporting Marketing
