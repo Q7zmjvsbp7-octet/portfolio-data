@@ -52,7 +52,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 ### Optimisez la gestion des données d'une boutique avec R ou Python
 
 > **Client :** BottleNeck (boutique de vins en ligne)
-> **Rôle :** Data Analyst | **Durée :** 70h | **Statut :** ✅ Validé
+> **Rôle :** Data Analyst | **Durée :** Octobre–Novembre 2025 | **Statut :** ✅ Validé
 
 **Question métier :** Comment fiabiliser des données provenant de sources hétérogènes (ERP + Web) pour produire des analyses fiables ?
 
@@ -70,7 +70,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ### Analysez les ventes d'une librairie avec R ou Python
 
-> **Client :** Lapage (librairie physique + site en ligne) **Rôle :** Data Analyst | **Durée :** 70h | **Statut :** ✅ Validé
+> **Client :** Lapage (librairie physique + site en ligne) **Rôle :** Data Analyst | **Durée :** Janvier–Février 2026 | **Statut :** ✅ Validé
 
 **Question métier :** Comment analyser les ventes et le comportement clients d'une librairie en ligne pour identifier les leviers de croissance ?
 
@@ -85,7 +85,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ### Faites une étude sur l'eau potable
 
-> **Client :** DWFA — Drinking Water For All (ONG) **Rôle :** Data Analyst | **Durée :** 70h |**Statut :** ✅ Validé
+> **Client :** DWFA — Drinking Water For All (ONG) **Rôle :** Data Analyst | **Durée :** Mars–Avril 2026 |**Statut :** ✅ Validé
 
 **Question métier :** Comment exploiter des données internationales sur l'accès à l'eau potable pour identifier des disparités territoriales et prioriser les zones d'intervention ?
 
@@ -104,7 +104,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 ### Produisez une étude de marché avec R ou Python
 
 > **Client :** La Poule qui Chante (export de volailles)  
-> **Rôle :** Data Analyst | **Durée :** 70h | **Statut :** ✅ Validé
+> **Rôle :** Data Analyst | **Durée :** Avril–Mai 2026 | **Statut :** ✅ Validé
 
 **Question métier :**
 Comment identifier les marchés internationaux les plus attractifs pour exporter du poulet français ?
@@ -125,7 +125,17 @@ ACP · Clustering · Segmentation de marchés · Data Storytelling · Aide à la
 
 ### Détectez des faux billets avec R ou Python
 
-> **Statut :** 🔄 En cours
+> **Client :** ONCFM — Organisation nationale de lutte contre le faux-monnayage  
+> **Rôle :** Data Analyst | **Durée :** Mai–Juin 2026 | **Statut :** ✅ Validé
+
+**Question métier :** Comment différencier automatiquement un vrai billet d'un faux à partir de ses seules dimensions géométriques ?
+
+**Compétences :** Apprentissage supervisé · Apprentissage non supervisé · Prédiction d'un phénomène statistique · Évaluation de modèles (matrice de confusion) · Aide à la décision
+
+**Outils :** `Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scikit-learn` · `statsmodels`
+
+![Aperçu projet 12](./projet12/apercu.png)
+
 
 📁 [Voir le dossier du projet](./projet12/)
 
