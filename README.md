@@ -81,7 +81,10 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 ![Aperçu projet 9](./projet9/apercu.png)
 
 📁 [Voir le dossier complet](./projet9/)
+
 ---
+
+## Projet 10
 
 ### Faites une étude sur l'eau potable
 
