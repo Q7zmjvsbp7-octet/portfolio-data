@@ -82,7 +82,7 @@ Le client souhaite évaluer les candidats à travers un portfolio réflexif et v
 | Diagramme de Gantt | Tableau Public | ✅ Terminé |
 | Tableau de bord Profil | Power BI | ✅ Terminé |
 | Tableau de bord Veille métier | Power BI | ✅ Terminé |
-| Vidéo de formation Power BI | Loom | ✅ Terminé |
+| Vidéo de formation Tableau Public | Movie | ✅ Terminé |
 | Documentation — procédure graphique | Word / PDF | ✅ Terminé |
 
 ---
