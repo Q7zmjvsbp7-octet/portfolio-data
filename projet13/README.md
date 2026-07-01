@@ -7,11 +7,7 @@
 
 [← Retour au portfolio principal](../../README.md)
 
----
-
-[Projet 13 — Dossier de candidature Aéroworld](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)
-
----
+[Projet 13 — Dossier de candidature Aeroworld](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)
 
 # 📌 Résumé
 
