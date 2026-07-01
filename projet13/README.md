@@ -7,12 +7,13 @@
 
 [← Retour au portfolio principal](../../README.md)
 
+---
 
+📂 **Dossier complet de la candidature Aéroworld**
 
+👉 **[Consulter le dossier détaillé →](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)** — la démarche complète de consultant : comprendre le besoin, cadrer, démontrer, accompagner.
 
-📂 **Ce projet dispose de son propre dossier détaillé.**
-
-👉 **[Découvrir le dossier de candidature Aéroworld →](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)** — cadrage, veille, tableaux de bord, vidéo de formation et documentation.
+---
 
 # 📌 Résumé
 
