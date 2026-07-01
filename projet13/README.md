@@ -6,6 +6,7 @@
 ![Projet](https://img.shields.io/badge/Projet-Data%20Analyst-lightgrey)
 
 [← Retour au portfolio principal](../../README.md)
+- [Projet 13 — Dossier de candidature Aéroworld](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)
 
 ---
 
@@ -53,7 +54,7 @@ Le client souhaite évaluer les candidats à travers un portfolio réflexif et v
 
 ### 04 — Accompagnement & documentation
 
-- Vidéo de formation à la prise en main de Power BI
+- Vidéo de formation à la prise en main de Tableau Public
 - Documentation : procédure de création des graphiques Power BI
 - Intégration de l'ensemble dans le portfolio (GitHub + site WordPress)
 
@@ -108,7 +109,7 @@ Le client souhaite évaluer les candidats à travers un portfolio réflexif et v
 - Power BI
 - Power Query
 - Tableau Public
-- Loom
+- Movie
 - Word
 - PowerPoint
 
@@ -125,5 +126,7 @@ Le client souhaite évaluer les candidats à travers un portfolio réflexif et v
 1 démarche de consultant data, du cadrage du besoin à la transmission aux équipes
 
 ---
+
+- [Projet 13 — Dossier de candidature Aéroworld](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)
 
 *Projet réalisé dans le cadre de la formation Data Analyst — OpenClassrooms (RNCP niveau 6)*
