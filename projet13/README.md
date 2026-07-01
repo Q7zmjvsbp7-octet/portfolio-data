@@ -6,7 +6,7 @@
 ![Projet](https://img.shields.io/badge/Projet-Data%20Analyst-lightgrey)
 
 [← Retour au portfolio principal](../../README.md)
-- [Projet 13 — Dossier de candidature Aéroworld](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)
+[Projet 13 — Dossier de candidature Aéroworld](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)
 
 ---
 
@@ -127,6 +127,6 @@ Le client souhaite évaluer les candidats à travers un portfolio réflexif et v
 
 ---
 
-- [Projet 13 — Dossier de candidature Aéroworld](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)
+[Projet 13 — Dossier de candidature Aéroworld](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)
 
 *Projet réalisé dans le cadre de la formation Data Analyst — OpenClassrooms (RNCP niveau 6)*
