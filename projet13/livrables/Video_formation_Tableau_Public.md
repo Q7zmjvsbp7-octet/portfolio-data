@@ -1,4 +1,4 @@
-# 🎬 Vidéo de formation — Tableau Public
+# 🎬 Lien vidéo de formation — Tableau Public
 
 Vidéo pédagogique (24 min) présentant la création pas à pas d'un tableau de bord sur Tableau Public, à partir de données réelles (températures estivales mondiales, 1901–2024).
 
