@@ -6,6 +6,9 @@
 ![Projet](https://img.shields.io/badge/Projet-Data%20Analyst-lightgrey)
 
 [← Retour au portfolio principal](../../README.md)
+
+---
+
 [Projet 13 — Dossier de candidature Aéroworld](https://github.com/Q7zmjvsbp7-octet/oc-projet-13-aeroworld)
 
 ---
