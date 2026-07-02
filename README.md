@@ -11,6 +11,7 @@
 > Analytique, curieuse et opérationnelle, je transforme des données complexes en décisions simples et actionnables.
 
 📍 Cholet — Mobilité 60 km | Disponible en présentiel et à distance
+
 📞 0670 75 58 95 | ✉️ rondeaucecile@outlook.com
 
 📄 [Télécharger mon CV (PDF)](livrables/CV_Cecile_Rondeau.pdf)
