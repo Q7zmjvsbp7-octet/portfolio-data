@@ -12,6 +12,7 @@
 
 📍 Cholet — Mobilité 60 km | Disponible en présentiel et à distance
 📞 0670 75 58 95 | ✉️ rondeaucecile@outlook.com
+📄 [Télécharger mon CV (PDF)](livrables/CV_Cecile_Rondeau.pdf)
 🌐 [cecile-rondeau-data-analyst.fr](https://cecile-rondeau-data-analyst.fr)
 💼 [LinkedIn](https://www.linkedin.com/in/cécile-rondeau-b79258aa)
 
@@ -23,7 +24,60 @@ SQL • Python • Power BI • KNIME • Tableau Public • ACP • Clustering 
 
 ---
 
-## Table des matières
+## 1 · Qui je suis
+
+Quinze ans en environnement ERP — assistante de gestion, assistante commerciale, adjointe de direction — avant d'obtenir un titre Data Analyst (RNCP niveau 6). Cette double expérience m'apporte une lecture métier des données, pas seulement technique : je sais ce qu'elles représentent côté terrain avant même de les analyser.
+
+Ce dossier rassemble les livrables qui démontrent cette compétence, dans l'ordre d'un accompagnement de consultant : comprendre le besoin, cadrer, démontrer, accompagner.
+Le reste du README que je t'ai donné juste avant reste inchangé, seule cette section est remplacée. Autre chose à corriger avant de passer sur GitHub ?
+
+---
+
+## 2 · Mon profil
+
+Tableau de bord présentant mon parcours (15 ans), mes compétences outils, mes 13 projets et mes 9 soft skills.
+
+📄 [Consulter le tableau de bord Profil (PDF)](livrables/Dashboard_Profil.pdf)
+🔧 [Télécharger le fichier Power BI (.pbix)](livrables/Dashboard_Profil.pbix)
+
+![Tableau de bord Profil](images/apercu_dashboard_profil.png)
+
+---
+
+## 3 · Ma veille métier
+
+Tableau de bord de veille : tests d'outils, méthodes, sources institutionnelles, conformité RGPD. **32 fonctionnalités testées · 7 sources open data · 86 sources de veille.**
+
+📄 [Consulter le tableau de bord Veille métier (PDF)](livrables/Dashboard_Veille_metier.pdf)
+🔧 [Télécharger le fichier Power BI (.pbix)](livrables/Dashboard_Veille_metier.pbix)
+
+![Tableau de bord Veille métier](images/apercu_dashboard_veille.png)
+
+---
+
+## 4 · Accompagnement des équipes
+
+L'une des missions attendues est d'accompagner les équipes sur la prise en main des outils. Pour le démontrer, j'ai produit deux supports complémentaires, sur **deux outils différents** — preuve de polyvalence dans la transmission.
+
+### 4.1 — Vidéo de formation (Tableau Public)
+
+Une vidéo pédagogique qui guide pas à pas la création d'un tableau de bord sur **Tableau Public**, à partir de données réelles (températures estivales mondiales, 1901–2024).
+
+🎬 [Voir la vidéo de formation Tableau Public (24 min)](https://youtu.be/tgopvckZXng)
+
+![Vidéo de formation Tableau Public](images/apercu_video.png)
+
+### 4.2 — Documentation de procédure (Power BI)
+
+Une procédure écrite et illustrée expliquant comment construire un graphique d'analyse propre et lisible sous **Power BI**.
+
+📄 [Documentation — procédure de création graphique (Power BI)](livrables/Documentation_procedure_graphique.pdf)
+
+![Documentation procédure Power BI](images/apercu_documentation.png)
+
+---
+
+## 5 · Mes projets
 
 - [Projet 1 — Prenez en main votre formation de Data Analyst](projet1/)
 - [Projet 2 — Faites une analyse de ventes pour un e-commerce](projet2/)
@@ -39,17 +93,9 @@ SQL • Python • Power BI • KNIME • Tableau Public • ACP • Clustering 
 - [Projet 12 — Détectez des faux billets](#projet-12)
 - [Projet 13 — Créez votre portfolio professionnel de la data](projet13/)
 
----
+### Projet 6
 
-## Profil
-
-Passée des fonctions d'assistante de gestion, commerciale et adjointe de direction à la data analytique, je combine une connaissance concrète des environnements ERP et des enjeux métier avec des compétences techniques acquises en formation (RNCP niveau 6, Bac+3/4 — OpenClassrooms). Ce qui me distingue : je sais ce que les données représentent côté terrain avant même de les analyser.
-
----
-
-## Projet 6
-
-### Optimisez la gestion des données d'une boutique avec R ou Python
+#### Optimisez la gestion des données d'une boutique avec R ou Python
 
 > **Client :** BottleNeck (boutique de vins en ligne)
 > **Rôle :** Data Analyst | **Durée :** Octobre–Novembre 2025 | **Statut :** ✅ Validé
@@ -66,9 +112,9 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ---
 
-## Projet 9
+### Projet 9
 
-### Analysez les ventes d'une librairie avec R ou Python
+#### Analysez les ventes d'une librairie avec R ou Python
 
 > **Client :** Lapage (librairie physique + site en ligne) **Rôle :** Data Analyst | **Durée :** Janvier–Février 2026 | **Statut :** ✅ Validé
 
@@ -84,9 +130,9 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ---
 
-## Projet 10
+### Projet 10
 
-### Faites une étude sur l'eau potable
+#### Faites une étude sur l'eau potable
 
 > **Client :** DWFA — Drinking Water For All (ONG) **Rôle :** Data Analyst | **Durée :** Mars–Avril 2026 |**Statut :** ✅ Validé
 
@@ -102,21 +148,18 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ---
 
-## Projet 11
+### Projet 11
 
-### Produisez une étude de marché avec R ou Python
+#### Produisez une étude de marché avec R ou Python
 
-> **Client :** La Poule qui Chante (export de volailles)  
+> **Client :** La Poule qui Chante (export de volailles)
 > **Rôle :** Data Analyst | **Durée :** Avril–Mai 2026 | **Statut :** ✅ Validé
 
-**Question métier :**
-Comment identifier les marchés internationaux les plus attractifs pour exporter du poulet français ?
+**Question métier :** Comment identifier les marchés internationaux les plus attractifs pour exporter du poulet français ?
 
-**Compétences :**
-ACP · Clustering · Segmentation de marchés · Data Storytelling · Aide à la décision
+**Compétences :** ACP · Clustering · Segmentation de marchés · Data Storytelling · Aide à la décision
 
-**Outils :**
-`Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scikit-learn`
+**Outils :** `Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scikit-learn`
 
 ![Projet 11](projet11/apercu.png)
 
@@ -124,11 +167,11 @@ ACP · Clustering · Segmentation de marchés · Data Storytelling · Aide à la
 
 ---
 
-## Projet 12
+### Projet 12
 
-### Détectez des faux billets avec R ou Python
+#### Détectez des faux billets avec R ou Python
 
-> **Client :** ONCFM — Organisation nationale de lutte contre le faux-monnayage  
+> **Client :** ONCFM — Organisation nationale de lutte contre le faux-monnayage
 > **Rôle :** Data Analyst | **Durée :** Mai–Juin 2026 | **Statut :** ✅ Validé
 
 **Question métier :** Comment différencier automatiquement un vrai billet d'un faux à partir de ses seules dimensions géométriques ?
@@ -139,12 +182,13 @@ ACP · Clustering · Segmentation de marchés · Data Storytelling · Aide à la
 
 ![Aperçu projet 12](./projet12/apercu.png)
 
-
 📁 [Voir le dossier du projet](./projet12/)
 
 ---
 
-## Contact
+## 6 · Contact & CV
+
+📄 [Télécharger mon CV (PDF)](livrables/CV_Cecile_Rondeau.pdf)
 
 ✉️ rondeaucecile@outlook.com
 🌐 [cecile-rondeau-data-analyst.fr](https://cecile-rondeau-data-analyst.fr)
