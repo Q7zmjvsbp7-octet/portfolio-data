@@ -98,7 +98,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ![Aperçu projet 9](./projet9/apercu.png)
 
-📁 [➡️ Découvrir le dossier complet](./projet9/)
+📁 [Découvrir le dossier complet](./projet9/)
 
 ---
 
@@ -116,7 +116,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ![Aperçu projet 10](./projet10/apercu.png)
 
-📁 [Voir le dossier complet](./projet10/)
+📁 [Découvrir le dossier complet](./projet10/)
 
 ---
 
@@ -135,7 +135,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ![Projet 11](projet11/apercu.png)
 
-📂 [Voir le dossier complet](projet11)
+📂 [Découvrir le dossier complet](projet11)
 
 ---
 
@@ -154,7 +154,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ![Aperçu projet 12](./projet12/apercu.png)
 
-📁 [Voir le dossier du projet](./projet12/)
+📁 [Découvrir le dossier du projet](./projet12/)
 
 ---
 
