@@ -158,7 +158,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ---
 
-## Ma veille métier
+## Veille, expérimentation et amélioration continue
 
 > Ce tableau de bord ne présente pas uniquement ma veille métier. Il reflète ma démarche d'amélioration continue : suivi des évolutions de la Data, expérimentation de nouveaux outils, maîtrise des technologies actuelles, sélection de sources de référence et application des bonnes pratiques, notamment en matière de RGPD.
 
