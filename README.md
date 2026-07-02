@@ -168,7 +168,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ### En complément : 
 
-une [vidéo de formation Tableau Public (24 min)](https://youtu.be/tgopvckZXng) et une [documentation de procédure Power BI](livrables/Documentation_procedure_graphique.pdf), réalisées pour accompagner la prise en main des outils.
+Une [vidéo de formation Tableau Public (24 min)](https://youtu.be/tgopvckZXng) et une [documentation de procédure Power BI](livrables/Documentation_procedure_graphique.pdf), réalisées pour accompagner la prise en main des outils.
 
 ---
 
