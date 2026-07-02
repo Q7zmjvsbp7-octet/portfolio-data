@@ -12,15 +12,8 @@
 
 📍 Cholet — Mobilité 60 km | Disponible en présentiel et à distance
 📞 0670 75 58 95 | ✉️ rondeaucecile@outlook.com
-📄 [Télécharger mon CV (PDF)](livrables/CV_Cecile_Rondeau.pdf)
 🌐 [cecile-rondeau-data-analyst.fr](https://cecile-rondeau-data-analyst.fr)
 💼 [LinkedIn](https://www.linkedin.com/in/cécile-rondeau-b79258aa)
-
----
-
-**Compétences démontrées :**
-
-SQL • Python • Power BI • KNIME • Tableau Public • ACP • Clustering • Machine Learning • Data Storytelling • Business Intelligence
 
 ---
 
@@ -28,14 +21,32 @@ SQL • Python • Power BI • KNIME • Tableau Public • ACP • Clustering 
 
 Quinze ans en environnement ERP — assistante de gestion, assistante commerciale, adjointe de direction — avant d'obtenir un titre Data Analyst (RNCP niveau 6). Cette double expérience m'apporte une lecture métier des données, pas seulement technique : je sais ce qu'elles représentent côté terrain avant même de les analyser.
 
-Ce dossier rassemble les livrables qui démontrent cette compétence, dans l'ordre d'un accompagnement de consultant : comprendre le besoin, cadrer, démontrer, accompagner.
-Le reste du README que je t'ai donné juste avant reste inchangé, seule cette section est remplacée. Autre chose à corriger avant de passer sur GitHub ?
+## Compétences principales
+
+**Techniques**
+* Data Cleaning
+* Analyse exploratoire (EDA)
+* SQL
+* Visualisation de données
+* Machine Learning
+* Data Storytelling
+* Power BI
+* Tableau Public
+
+**Savoir-être**
+* Esprit analytique · Rigueur méthodologique · Autonomie
+* Pédagogie · Storytelling · Force de proposition
+* Adaptabilité · Collaboration transversale · Curiosité
 
 ---
 
 ## 2 · Mon profil
 
-Tableau de bord présentant mon parcours (15 ans), mes compétences outils, mes 13 projets et mes 9 soft skills.
+Ce tableau présente :
+* mon parcours (15 ans)
+* mes outils maîtrisés
+* mes compétences et soft skills
+* mes 13 projets réalisés
 
 📄 [Consulter le tableau de bord Profil (PDF)](livrables/Dashboard_Profil.pdf)
 🔧 [Télécharger le fichier Power BI (.pbix)](livrables/Dashboard_Profil.pbix)
@@ -44,40 +55,7 @@ Tableau de bord présentant mon parcours (15 ans), mes compétences outils, mes 
 
 ---
 
-## 3 · Ma veille métier
-
-Tableau de bord de veille : tests d'outils, méthodes, sources institutionnelles, conformité RGPD. **32 fonctionnalités testées · 7 sources open data · 86 sources de veille.**
-
-📄 [Consulter le tableau de bord Veille métier (PDF)](livrables/Dashboard_Veille_metier.pdf)
-🔧 [Télécharger le fichier Power BI (.pbix)](livrables/Dashboard_Veille_metier.pbix)
-
-![Tableau de bord Veille métier](images/apercu_dashboard_veille.png)
-
----
-
-## 4 · Accompagnement des équipes
-
-L'une des missions attendues est d'accompagner les équipes sur la prise en main des outils. Pour le démontrer, j'ai produit deux supports complémentaires, sur **deux outils différents** — preuve de polyvalence dans la transmission.
-
-### 4.1 — Vidéo de formation (Tableau Public)
-
-Une vidéo pédagogique qui guide pas à pas la création d'un tableau de bord sur **Tableau Public**, à partir de données réelles (températures estivales mondiales, 1901–2024).
-
-🎬 [Voir la vidéo de formation Tableau Public (24 min)](https://youtu.be/tgopvckZXng)
-
-![Vidéo de formation Tableau Public](images/apercu_video.png)
-
-### 4.2 — Documentation de procédure (Power BI)
-
-Une procédure écrite et illustrée expliquant comment construire un graphique d'analyse propre et lisible sous **Power BI**.
-
-📄 [Documentation — procédure de création graphique (Power BI)](livrables/Documentation_procedure_graphique.pdf)
-
-![Documentation procédure Power BI](images/apercu_documentation.png)
-
----
-
-## 5 · Mes projets
+## 3 · Mes projets
 
 - [Projet 1 — Prenez en main votre formation de Data Analyst](projet1/)
 - [Projet 2 — Faites une analyse de ventes pour un e-commerce](projet2/)
@@ -112,7 +90,7 @@ Une procédure écrite et illustrée expliquant comment construire un graphique 
 
 ---
 
-### Projet 9
+### ⭐ Projet 9
 
 #### Analysez les ventes d'une librairie avec R ou Python
 
@@ -130,7 +108,7 @@ Une procédure écrite et illustrée expliquant comment construire un graphique 
 
 ---
 
-### Projet 10
+### 🥉 Projet 10
 
 #### Faites une étude sur l'eau potable
 
@@ -148,7 +126,7 @@ Une procédure écrite et illustrée expliquant comment construire un graphique 
 
 ---
 
-### Projet 11
+### 🥈 Projet 11
 
 #### Produisez une étude de marché avec R ou Python
 
@@ -167,7 +145,7 @@ Une procédure écrite et illustrée expliquant comment construire un graphique 
 
 ---
 
-### Projet 12
+### 🥇 Projet 12
 
 #### Détectez des faux billets avec R ou Python
 
@@ -183,6 +161,47 @@ Une procédure écrite et illustrée expliquant comment construire un graphique 
 ![Aperçu projet 12](./projet12/apercu.png)
 
 📁 [Voir le dossier du projet](./projet12/)
+
+---
+
+## 4 · Ma veille métier
+
+Veille technologique structurée sur Python, SQL, IA, Power BI et Tableau Public.
+
+Ce tableau présente :
+* les outils testés
+* les méthodes évaluées
+* les sources institutionnelles utilisées
+* la conformité RGPD systématique
+
+**32 fonctionnalités testées · 7 sources open data · 86 sources de veille.**
+
+📄 [Consulter le tableau de bord Veille métier (PDF)](livrables/Dashboard_Veille_metier.pdf)
+🔧 [Télécharger le fichier Power BI (.pbix)](livrables/Dashboard_Veille_metier.pbix)
+
+![Tableau de bord Veille métier](images/apercu_dashboard_veille.png)
+
+---
+
+## 5 · Accompagnement des équipes
+
+L'une des missions attendues est d'accompagner les équipes sur la prise en main des outils. Pour le démontrer, j'ai produit deux supports complémentaires, sur **deux outils différents** — preuve de polyvalence dans la transmission.
+
+### 5.1 — Vidéo de formation (Tableau Public)
+
+Une vidéo pédagogique qui guide pas à pas la création d'un tableau de bord sur **Tableau Public**, à partir de données réelles (températures estivales mondiales, 1901–2024).
+
+🎬 [Voir la vidéo de formation Tableau Public (24 min)](https://youtu.be/tgopvckZXng)
+
+![Vidéo de formation Tableau Public](images/apercu_video.png)
+
+### 5.2 — Documentation de procédure (Power BI)
+
+Une procédure écrite et illustrée expliquant comment construire un graphique d'analyse propre et lisible sous **Power BI**.
+
+📄 [Documentation — procédure de création graphique (Power BI)](livrables/Documentation_procedure_graphique.pdf)
+
+![Documentation procédure Power BI](images/apercu_documentation.png)
 
 ---
 
