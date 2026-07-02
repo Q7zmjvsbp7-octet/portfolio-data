@@ -52,6 +52,8 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ---
 
+> Ce tableau de bord synthétise mon parcours, mes compétences, mes outils et l'ensemble des projets réalisés.
+
 📄 [Consulter le tableau de bord Profil (PDF)](livrables/Dashboard_Profil.pdf)
 🔧 [Télécharger le fichier Power BI (.pbix)](livrables/Dashboard_Profil.pbix)
 
@@ -78,7 +80,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ![Aperçu projet 6](./projet6/apercu.png)
 
-📁 [Voir le dossier complet](./projet6/)
+📁 [Découvrir le dossier complet](./projet6/)
 
 ---
 
@@ -96,7 +98,7 @@ Passée des fonctions d'assistante de gestion, commerciale et adjointe de direct
 
 ![Aperçu projet 9](./projet9/apercu.png)
 
-📁 [Voir le dossier complet](./projet9/)
+📁 [➡️ Découvrir le dossier complet](./projet9/)
 
 ---
 
