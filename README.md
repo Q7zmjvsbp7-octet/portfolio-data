@@ -14,7 +14,7 @@
 
 📞 0670 75 58 95 | ✉️ rondeaucecile@outlook.com
 
-📄 [Télécharger mon CV (PDF)](livrables/CV_Cecile_Rondeau.pdf)
+📄 [Télécharger mon CV (PDF)](livrables/CV_CecileRondeau.pdf)
 
 🌐 [cecile-rondeau-data-analyst.fr](https://cecile-rondeau-data-analyst.fr)
 
